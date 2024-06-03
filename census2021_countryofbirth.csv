@@ -1,0 +1,181 @@
+con,eth,eth_lab,country_birth,age_code,age,n
+Bradford East,1,"Asian, Asian British or Asian Welsh",UK,1,Aged 15 years and under,15943
+Bradford East,1,"Asian, Asian British or Asian Welsh",UK,2,Aged 16 to 24 years,7496
+Bradford East,1,"Asian, Asian British or Asian Welsh",UK,3,Aged 25 to 34 years,4720
+Bradford East,1,"Asian, Asian British or Asian Welsh",UK,4,Aged 35 to 49 years,4843
+Bradford East,1,"Asian, Asian British or Asian Welsh",UK,5,Aged 50 to 64 years,1301
+Bradford East,1,"Asian, Asian British or Asian Welsh",UK,6,Aged 65 years and over,133
+Bradford East,1,"Asian, Asian British or Asian Welsh",Other,1,Aged 15 years and under,1173
+Bradford East,1,"Asian, Asian British or Asian Welsh",Other,2,Aged 16 to 24 years,1295
+Bradford East,1,"Asian, Asian British or Asian Welsh",Other,3,Aged 25 to 34 years,3170
+Bradford East,1,"Asian, Asian British or Asian Welsh",Other,4,Aged 35 to 49 years,7416
+Bradford East,1,"Asian, Asian British or Asian Welsh",Other,5,Aged 50 to 64 years,4195
+Bradford East,1,"Asian, Asian British or Asian Welsh",Other,6,Aged 65 years and over,2647
+Bradford East,2,"Black, Black British, Black Welsh, Caribbean or African",UK,1,Aged 15 years and under,595
+Bradford East,2,"Black, Black British, Black Welsh, Caribbean or African",UK,2,Aged 16 to 24 years,129
+Bradford East,2,"Black, Black British, Black Welsh, Caribbean or African",UK,3,Aged 25 to 34 years,107
+Bradford East,2,"Black, Black British, Black Welsh, Caribbean or African",UK,4,Aged 35 to 49 years,128
+Bradford East,2,"Black, Black British, Black Welsh, Caribbean or African",UK,5,Aged 50 to 64 years,290
+Bradford East,2,"Black, Black British, Black Welsh, Caribbean or African",UK,6,Aged 65 years and over,4
+Bradford East,2,"Black, Black British, Black Welsh, Caribbean or African",Other,1,Aged 15 years and under,334
+Bradford East,2,"Black, Black British, Black Welsh, Caribbean or African",Other,2,Aged 16 to 24 years,325
+Bradford East,2,"Black, Black British, Black Welsh, Caribbean or African",Other,3,Aged 25 to 34 years,306
+Bradford East,2,"Black, Black British, Black Welsh, Caribbean or African",Other,4,Aged 35 to 49 years,523
+Bradford East,2,"Black, Black British, Black Welsh, Caribbean or African",Other,5,Aged 50 to 64 years,330
+Bradford East,2,"Black, Black British, Black Welsh, Caribbean or African",Other,6,Aged 65 years and over,187
+Bradford East,3,Mixed or Multiple ethnic groups,UK,1,Aged 15 years and under,1915
+Bradford East,3,Mixed or Multiple ethnic groups,UK,2,Aged 16 to 24 years,512
+Bradford East,3,Mixed or Multiple ethnic groups,UK,3,Aged 25 to 34 years,418
+Bradford East,3,Mixed or Multiple ethnic groups,UK,4,Aged 35 to 49 years,332
+Bradford East,3,Mixed or Multiple ethnic groups,UK,5,Aged 50 to 64 years,264
+Bradford East,3,Mixed or Multiple ethnic groups,UK,6,Aged 65 years and over,36
+Bradford East,3,Mixed or Multiple ethnic groups,Other,1,Aged 15 years and under,86
+Bradford East,3,Mixed or Multiple ethnic groups,Other,2,Aged 16 to 24 years,64
+Bradford East,3,Mixed or Multiple ethnic groups,Other,3,Aged 25 to 34 years,72
+Bradford East,3,Mixed or Multiple ethnic groups,Other,4,Aged 35 to 49 years,61
+Bradford East,3,Mixed or Multiple ethnic groups,Other,5,Aged 50 to 64 years,45
+Bradford East,3,Mixed or Multiple ethnic groups,Other,6,Aged 65 years and over,18
+Bradford East,4,White,UK,1,Aged 15 years and under,9485
+Bradford East,4,White,UK,2,Aged 16 to 24 years,4441
+Bradford East,4,White,UK,3,Aged 25 to 34 years,6103
+Bradford East,4,White,UK,4,Aged 35 to 49 years,8274
+Bradford East,4,White,UK,5,Aged 50 to 64 years,10843
+Bradford East,4,White,UK,6,Aged 65 years and over,9458
+Bradford East,4,White,Other,1,Aged 15 years and under,726
+Bradford East,4,White,Other,2,Aged 16 to 24 years,802
+Bradford East,4,White,Other,3,Aged 25 to 34 years,1267
+Bradford East,4,White,Other,4,Aged 35 to 49 years,1778
+Bradford East,4,White,Other,5,Aged 50 to 64 years,737
+Bradford East,4,White,Other,6,Aged 65 years and over,470
+Bradford East,5,Other ethnic group,UK,1,Aged 15 years and under,577
+Bradford East,5,Other ethnic group,UK,2,Aged 16 to 24 years,133
+Bradford East,5,Other ethnic group,UK,3,Aged 25 to 34 years,109
+Bradford East,5,Other ethnic group,UK,4,Aged 35 to 49 years,101
+Bradford East,5,Other ethnic group,UK,5,Aged 50 to 64 years,40
+Bradford East,5,Other ethnic group,UK,6,Aged 65 years and over,3
+Bradford East,5,Other ethnic group,Other,1,Aged 15 years and under,359
+Bradford East,5,Other ethnic group,Other,2,Aged 16 to 24 years,351
+Bradford East,5,Other ethnic group,Other,3,Aged 25 to 34 years,406
+Bradford East,5,Other ethnic group,Other,4,Aged 35 to 49 years,682
+Bradford East,5,Other ethnic group,Other,5,Aged 50 to 64 years,279
+Bradford East,5,Other ethnic group,Other,6,Aged 65 years and over,156
+Bradford South,1,"Asian, Asian British or Asian Welsh",UK,1,Aged 15 years and under,7157
+Bradford South,1,"Asian, Asian British or Asian Welsh",UK,2,Aged 16 to 24 years,3007
+Bradford South,1,"Asian, Asian British or Asian Welsh",UK,3,Aged 25 to 34 years,2475
+Bradford South,1,"Asian, Asian British or Asian Welsh",UK,4,Aged 35 to 49 years,2828
+Bradford South,1,"Asian, Asian British or Asian Welsh",UK,5,Aged 50 to 64 years,614
+Bradford South,1,"Asian, Asian British or Asian Welsh",UK,6,Aged 65 years and over,39
+Bradford South,1,"Asian, Asian British or Asian Welsh",Other,1,Aged 15 years and under,347
+Bradford South,1,"Asian, Asian British or Asian Welsh",Other,2,Aged 16 to 24 years,450
+Bradford South,1,"Asian, Asian British or Asian Welsh",Other,3,Aged 25 to 34 years,1167
+Bradford South,1,"Asian, Asian British or Asian Welsh",Other,4,Aged 35 to 49 years,2988
+Bradford South,1,"Asian, Asian British or Asian Welsh",Other,5,Aged 50 to 64 years,1760
+Bradford South,1,"Asian, Asian British or Asian Welsh",Other,6,Aged 65 years and over,1235
+Bradford South,2,"Black, Black British, Black Welsh, Caribbean or African",UK,1,Aged 15 years and under,541
+Bradford South,2,"Black, Black British, Black Welsh, Caribbean or African",UK,2,Aged 16 to 24 years,130
+Bradford South,2,"Black, Black British, Black Welsh, Caribbean or African",UK,3,Aged 25 to 34 years,83
+Bradford South,2,"Black, Black British, Black Welsh, Caribbean or African",UK,4,Aged 35 to 49 years,130
+Bradford South,2,"Black, Black British, Black Welsh, Caribbean or African",UK,5,Aged 50 to 64 years,247
+Bradford South,2,"Black, Black British, Black Welsh, Caribbean or African",UK,6,Aged 65 years and over,10
+Bradford South,2,"Black, Black British, Black Welsh, Caribbean or African",Other,1,Aged 15 years and under,134
+Bradford South,2,"Black, Black British, Black Welsh, Caribbean or African",Other,2,Aged 16 to 24 years,229
+Bradford South,2,"Black, Black British, Black Welsh, Caribbean or African",Other,3,Aged 25 to 34 years,239
+Bradford South,2,"Black, Black British, Black Welsh, Caribbean or African",Other,4,Aged 35 to 49 years,480
+Bradford South,2,"Black, Black British, Black Welsh, Caribbean or African",Other,5,Aged 50 to 64 years,306
+Bradford South,2,"Black, Black British, Black Welsh, Caribbean or African",Other,6,Aged 65 years and over,164
+Bradford South,3,Mixed or Multiple ethnic groups,UK,1,Aged 15 years and under,1897
+Bradford South,3,Mixed or Multiple ethnic groups,UK,2,Aged 16 to 24 years,558
+Bradford South,3,Mixed or Multiple ethnic groups,UK,3,Aged 25 to 34 years,415
+Bradford South,3,Mixed or Multiple ethnic groups,UK,4,Aged 35 to 49 years,371
+Bradford South,3,Mixed or Multiple ethnic groups,UK,5,Aged 50 to 64 years,259
+Bradford South,3,Mixed or Multiple ethnic groups,UK,6,Aged 65 years and over,33
+Bradford South,3,Mixed or Multiple ethnic groups,Other,1,Aged 15 years and under,38
+Bradford South,3,Mixed or Multiple ethnic groups,Other,2,Aged 16 to 24 years,40
+Bradford South,3,Mixed or Multiple ethnic groups,Other,3,Aged 25 to 34 years,44
+Bradford South,3,Mixed or Multiple ethnic groups,Other,4,Aged 35 to 49 years,60
+Bradford South,3,Mixed or Multiple ethnic groups,Other,5,Aged 50 to 64 years,28
+Bradford South,3,Mixed or Multiple ethnic groups,Other,6,Aged 65 years and over,26
+Bradford South,4,White,UK,1,Aged 15 years and under,14661
+Bradford South,4,White,UK,2,Aged 16 to 24 years,6675
+Bradford South,4,White,UK,3,Aged 25 to 34 years,9000
+Bradford South,4,White,UK,4,Aged 35 to 49 years,12445
+Bradford South,4,White,UK,5,Aged 50 to 64 years,15844
+Bradford South,4,White,UK,6,Aged 65 years and over,13393
+Bradford South,4,White,Other,1,Aged 15 years and under,510
+Bradford South,4,White,Other,2,Aged 16 to 24 years,528
+Bradford South,4,White,Other,3,Aged 25 to 34 years,1089
+Bradford South,4,White,Other,4,Aged 35 to 49 years,1618
+Bradford South,4,White,Other,5,Aged 50 to 64 years,626
+Bradford South,4,White,Other,6,Aged 65 years and over,535
+Bradford South,5,Other ethnic group,UK,1,Aged 15 years and under,333
+Bradford South,5,Other ethnic group,UK,2,Aged 16 to 24 years,93
+Bradford South,5,Other ethnic group,UK,3,Aged 25 to 34 years,70
+Bradford South,5,Other ethnic group,UK,4,Aged 35 to 49 years,86
+Bradford South,5,Other ethnic group,UK,5,Aged 50 to 64 years,37
+Bradford South,5,Other ethnic group,UK,6,Aged 65 years and over,6
+Bradford South,5,Other ethnic group,Other,1,Aged 15 years and under,201
+Bradford South,5,Other ethnic group,Other,2,Aged 16 to 24 years,170
+Bradford South,5,Other ethnic group,Other,3,Aged 25 to 34 years,175
+Bradford South,5,Other ethnic group,Other,4,Aged 35 to 49 years,385
+Bradford South,5,Other ethnic group,Other,5,Aged 50 to 64 years,168
+Bradford South,5,Other ethnic group,Other,6,Aged 65 years and over,86
+Bradford West,1,"Asian, Asian British or Asian Welsh",UK,1,Aged 15 years and under,20170
+Bradford West,1,"Asian, Asian British or Asian Welsh",UK,2,Aged 16 to 24 years,10523
+Bradford West,1,"Asian, Asian British or Asian Welsh",UK,3,Aged 25 to 34 years,7278
+Bradford West,1,"Asian, Asian British or Asian Welsh",UK,4,Aged 35 to 49 years,7507
+Bradford West,1,"Asian, Asian British or Asian Welsh",UK,5,Aged 50 to 64 years,1743
+Bradford West,1,"Asian, Asian British or Asian Welsh",UK,6,Aged 65 years and over,261
+Bradford West,1,"Asian, Asian British or Asian Welsh",Other,1,Aged 15 years and under,1469
+Bradford West,1,"Asian, Asian British or Asian Welsh",Other,2,Aged 16 to 24 years,1710
+Bradford West,1,"Asian, Asian British or Asian Welsh",Other,3,Aged 25 to 34 years,4169
+Bradford West,1,"Asian, Asian British or Asian Welsh",Other,4,Aged 35 to 49 years,8929
+Bradford West,1,"Asian, Asian British or Asian Welsh",Other,5,Aged 50 to 64 years,5904
+Bradford West,1,"Asian, Asian British or Asian Welsh",Other,6,Aged 65 years and over,4369
+Bradford West,2,"Black, Black British, Black Welsh, Caribbean or African",UK,1,Aged 15 years and under,517
+Bradford West,2,"Black, Black British, Black Welsh, Caribbean or African",UK,2,Aged 16 to 24 years,135
+Bradford West,2,"Black, Black British, Black Welsh, Caribbean or African",UK,3,Aged 25 to 34 years,81
+Bradford West,2,"Black, Black British, Black Welsh, Caribbean or African",UK,4,Aged 35 to 49 years,127
+Bradford West,2,"Black, Black British, Black Welsh, Caribbean or African",UK,5,Aged 50 to 64 years,197
+Bradford West,2,"Black, Black British, Black Welsh, Caribbean or African",UK,6,Aged 65 years and over,15
+Bradford West,2,"Black, Black British, Black Welsh, Caribbean or African",Other,1,Aged 15 years and under,337
+Bradford West,2,"Black, Black British, Black Welsh, Caribbean or African",Other,2,Aged 16 to 24 years,568
+Bradford West,2,"Black, Black British, Black Welsh, Caribbean or African",Other,3,Aged 25 to 34 years,673
+Bradford West,2,"Black, Black British, Black Welsh, Caribbean or African",Other,4,Aged 35 to 49 years,603
+Bradford West,2,"Black, Black British, Black Welsh, Caribbean or African",Other,5,Aged 50 to 64 years,293
+Bradford West,2,"Black, Black British, Black Welsh, Caribbean or African",Other,6,Aged 65 years and over,243
+Bradford West,3,Mixed or Multiple ethnic groups,UK,1,Aged 15 years and under,1608
+Bradford West,3,Mixed or Multiple ethnic groups,UK,2,Aged 16 to 24 years,551
+Bradford West,3,Mixed or Multiple ethnic groups,UK,3,Aged 25 to 34 years,346
+Bradford West,3,Mixed or Multiple ethnic groups,UK,4,Aged 35 to 49 years,266
+Bradford West,3,Mixed or Multiple ethnic groups,UK,5,Aged 50 to 64 years,187
+Bradford West,3,Mixed or Multiple ethnic groups,UK,6,Aged 65 years and over,25
+Bradford West,3,Mixed or Multiple ethnic groups,Other,1,Aged 15 years and under,126
+Bradford West,3,Mixed or Multiple ethnic groups,Other,2,Aged 16 to 24 years,93
+Bradford West,3,Mixed or Multiple ethnic groups,Other,3,Aged 25 to 34 years,115
+Bradford West,3,Mixed or Multiple ethnic groups,Other,4,Aged 35 to 49 years,76
+Bradford West,3,Mixed or Multiple ethnic groups,Other,5,Aged 50 to 64 years,45
+Bradford West,3,Mixed or Multiple ethnic groups,Other,6,Aged 65 years and over,24
+Bradford West,4,White,UK,1,Aged 15 years and under,4789
+Bradford West,4,White,UK,2,Aged 16 to 24 years,2808
+Bradford West,4,White,UK,3,Aged 25 to 34 years,3310
+Bradford West,4,White,UK,4,Aged 35 to 49 years,4458
+Bradford West,4,White,UK,5,Aged 50 to 64 years,6861
+Bradford West,4,White,UK,6,Aged 65 years and over,6948
+Bradford West,4,White,Other,1,Aged 15 years and under,673
+Bradford West,4,White,Other,2,Aged 16 to 24 years,1175
+Bradford West,4,White,Other,3,Aged 25 to 34 years,1534
+Bradford West,4,White,Other,4,Aged 35 to 49 years,1772
+Bradford West,4,White,Other,5,Aged 50 to 64 years,915
+Bradford West,4,White,Other,6,Aged 65 years and over,595
+Bradford West,5,Other ethnic group,UK,1,Aged 15 years and under,642
+Bradford West,5,Other ethnic group,UK,2,Aged 16 to 24 years,224
+Bradford West,5,Other ethnic group,UK,3,Aged 25 to 34 years,136
+Bradford West,5,Other ethnic group,UK,4,Aged 35 to 49 years,149
+Bradford West,5,Other ethnic group,UK,5,Aged 50 to 64 years,53
+Bradford West,5,Other ethnic group,UK,6,Aged 65 years and over,8
+Bradford West,5,Other ethnic group,Other,1,Aged 15 years and under,417
+Bradford West,5,Other ethnic group,Other,2,Aged 16 to 24 years,573
+Bradford West,5,Other ethnic group,Other,3,Aged 25 to 34 years,706
+Bradford West,5,Other ethnic group,Other,4,Aged 35 to 49 years,810
+Bradford West,5,Other ethnic group,Other,5,Aged 50 to 64 years,349
+Bradford West,5,Other ethnic group,Other,6,Aged 65 years and over,161
